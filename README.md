@@ -1,1 +1,1 @@
-# Hubitat_Jasco-Dimmer-Nightlights-
+# Hubitat_Jasco-Dimmer - with nightlights
